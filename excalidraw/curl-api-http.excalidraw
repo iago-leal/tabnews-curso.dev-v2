@@ -1,0 +1,51 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "Y5-q8DqPw5NY9WA67ik7M",
+      "type": "text",
+      "x": 250,
+      "y": 346,
+      "width": 1092.499267578125,
+      "height": 675,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a0",
+      "roundness": null,
+      "seed": 1008214288,
+      "version": 3,
+      "versionNonce": 1101593584,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1783515942937,
+      "link": null,
+      "locked": false,
+      "text": "*  Host localhost:3000 was resolved.    ← metainformação do curl (resolução DNS)\n*  IPv6: ::1                            ← metainformação do curl (endereço IPv6 resolvido)\n*  IPv4: 127.0.0.1                      ← metainformação do curl (endereço IPv4 resolvido)\n*  Trying [::1]:3000...                 ← metainformação do curl (tentativa de conexão TCP)\n*  Connected to localhost (::1) port 3000  ← metainformação do curl (conexão TCP estabelecida)\n\n>  GET /api/status HTTP/1.1     ← request line (não é header)\n>  Host: localhost:3000         ← header\n>  User-Agent: curl/8.7.1       ← header\n>  Accept: */*                  ← header\n>  (linha em branco)            ← fim dos headers de requisição\n\n*  Request completely sent off ← metainformação do curl (confirmação de envio)\n\n<  HTTP/1.1 200 OK               ← status line (não é header)\n<  Content-Type: application/json; charset=utf-8   ← header\n<  ETag: \"mdcxinn31gm\"           ← header\n<  Content-Length: 23            ← header\n<  Vary: Accept-Encoding         ← header\n<  Date: Wed, 08 Jul 2026...     ← header\n<  Connection: keep-alive        ← header\n<  Keep-Alive: timeout=5         ← header\n<  (linha em branco)             ← fim dos headers de resposta\n\n*  Connection #0 to host localhost left intact  ← metainformação do curl (conexão mantida aberta, keep-alive)\n\n{\"chave\":\"iago é top\"}          ← body da resposta",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "*  Host localhost:3000 was resolved.    ← metainformação do curl (resolução DNS)\n*  IPv6: ::1                            ← metainformação do curl (endereço IPv6 resolvido)\n*  IPv4: 127.0.0.1                      ← metainformação do curl (endereço IPv4 resolvido)\n*  Trying [::1]:3000...                 ← metainformação do curl (tentativa de conexão TCP)\n*  Connected to localhost (::1) port 3000  ← metainformação do curl (conexão TCP estabelecida)\n\n>  GET /api/status HTTP/1.1     ← request line (não é header)\n>  Host: localhost:3000         ← header\n>  User-Agent: curl/8.7.1       ← header\n>  Accept: */*                  ← header\n>  (linha em branco)            ← fim dos headers de requisição\n\n*  Request completely sent off ← metainformação do curl (confirmação de envio)\n\n<  HTTP/1.1 200 OK               ← status line (não é header)\n<  Content-Type: application/json; charset=utf-8   ← header\n<  ETag: \"mdcxinn31gm\"           ← header\n<  Content-Length: 23            ← header\n<  Vary: Accept-Encoding         ← header\n<  Date: Wed, 08 Jul 2026...     ← header\n<  Connection: keep-alive        ← header\n<  Keep-Alive: timeout=5         ← header\n<  (linha em branco)             ← fim dos headers de resposta\n\n*  Connection #0 to host localhost left intact  ← metainformação do curl (conexão mantida aberta, keep-alive)\n\n{\"chave\":\"iago é top\"}          ← body da resposta",
+      "autoResize": true,
+      "lineHeight": 1.25
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}

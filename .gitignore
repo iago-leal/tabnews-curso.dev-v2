@@ -3,3 +3,8 @@
 
 # folders
 node_modules/
+.next/
+
+#CLAUDE.md
+.claude/
+CLAUDE.md
